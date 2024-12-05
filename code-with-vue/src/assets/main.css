@@ -1,0 +1,6 @@
+@import 'base.scss';
+
+.Toastify__toast-container {
+    width: 800px!important;
+}
+

@@ -1,0 +1,17 @@
+apis/CustomerResourceApi.ts
+apis/DogResourceApi.ts
+apis/HelloResourceApi.ts
+apis/PersonResourceApi.ts
+apis/index.ts
+index.ts
+models/Customer.ts
+models/Dog.ts
+models/Invoice.ts
+models/InvoiceUpdate.ts
+models/Person.ts
+models/Position.ts
+models/Status.ts
+models/Tax.ts
+models/Who.ts
+models/index.ts
+runtime.ts
